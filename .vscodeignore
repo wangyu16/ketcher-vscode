@@ -13,7 +13,7 @@ debug_svg.js
 debug_svg.js.map
 **/*.map
 **/*.ts
-node_modules/**
+!out/**
 media/node_modules/**
 media/src/**
 media/tsconfig.json
